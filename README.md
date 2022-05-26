@@ -1,3 +1,4 @@
+
 # Empty project template
 
 Empty project with configured webpack, typescript and es-lint
@@ -13,3 +14,4 @@ Empty project with configured webpack, typescript and es-lint
 - `npm run build` -> build project to the _dist_ folder. Es-lint will be running before build.
 - `npm run dev` -> run webpack dev server and open browser
 - `npm run lint` -> run es-lint
+
