@@ -8,7 +8,6 @@ Written in classes using typescript without frameworks.
 
 
 ## Description
-In the application 2 similar games. For games, a common class has been created that combines the same functionality of two games. Differences are taken out in classes heirs. Game results are stored in class instances. There are volume and timer settings in Settings class.
 Use:
 - classes
 - without frameworks
